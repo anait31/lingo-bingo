@@ -1,0 +1,223 @@
+[
+    {
+      "id": "1",
+      "word": "ありがとう",
+      "pronunciation": "Arigatou",
+      "meaning": "Thank you",
+      "part_of_speech": "Phrase",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use when expressing gratitude.",
+      "example": "Arigatou gozaimasu (Thank you very much)."
+    },
+    {
+      "id": "2",
+      "word": "おはよう",
+      "pronunciation": "Ohayou",
+      "meaning": "Good morning",
+      "part_of_speech": "Phrase",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use in the morning as a greeting.",
+      "example": "Ohayou, genki desu ka? (Good morning, how are you?)"
+    },
+    {
+      "id": "3",
+      "word": "さようなら",
+      "pronunciation": "Sayounara",
+      "meaning": "Goodbye",
+      "part_of_speech": "Phrase",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "When parting ways.",
+      "example": "Sayounara, mata ne! (Goodbye, see you again!)"
+    },
+    {
+      "id": "4",
+      "word": "すみません",
+      "pronunciation": "Sumimasen",
+      "meaning": "Excuse me, I'm sorry",
+      "part_of_speech": "Phrase",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "When apologizing or getting someone's attention.",
+      "example": "Sumimasen, chotto tetsudatte kudasai. (Excuse me, please help me.)"
+    },
+    {
+      "id": "5",
+      "word": "はい",
+      "pronunciation": "Hai",
+      "meaning": "Yes",
+      "part_of_speech": "Interjection",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use when agreeing or confirming.",
+      "example": "Hai, wakarimashita. (Yes, I understand.)"
+    },
+    {
+      "id": "6",
+      "word": "いいえ",
+      "pronunciation": "Iie",
+      "meaning": "No",
+      "part_of_speech": "Interjection",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use when disagreeing or refusing.",
+      "example": "Iie, arigatou gozaimasen. (No, thank you.)"
+    },
+    {
+      "id": "7",
+      "word": "ありがとうごさいます",
+      "pronunciation": "Arigatou gozaimasu",
+      "meaning": "Thank you very much (polite)",
+      "part_of_speech": "Phrase",
+      "difficulty": "medium",
+      "lesson_no": 2,
+      "when_to_say": "Use in formal situations when thanking someone.",
+      "example": "Arigatou gozaimasu, tasukarimashita. (Thank you very much, you helped me.)"
+    },
+    {
+      "id": "8",
+      "word": "どういたしまして",
+      "pronunciation": "Dou itashimashite",
+      "meaning": "You're welcome",
+      "part_of_speech": "Phrase",
+      "difficulty": "medium",
+      "lesson_no": 2,
+      "when_to_say": "Use when replying to 'thank you'.",
+      "example": "A: Arigatou gozaimasu. (Thank you very much.) B: Dou itashimashite. (You're welcome.)"
+    },
+    {
+      "id": "9",
+      "word": "おやすみなさい",
+      "pronunciation": "Oyasuminasai",
+      "meaning": "Good night",
+      "part_of_speech": "Phrase",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "When wishing someone a good night.",
+      "example": "Oyasuminasai, yoi yume wo. (Good night, sweet dreams.)"
+    },
+    {
+      "id": "10",
+      "word": "こんにちは",
+      "pronunciation": "Konnichiwa",
+      "meaning": "Hello, Good afternoon",
+      "part_of_speech": "Phrase",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use as a general greeting during the day.",
+      "example": "Konnichiwa, genki desu ka? (Hello, how are you?)"
+    },
+    {
+      "id": "11",
+      "word": "たくさん",
+      "pronunciation": "Takusan",
+      "meaning": "A lot, many",
+      "part_of_speech": "Adverb",
+      "difficulty": "medium",
+      "lesson_no": 2,
+      "when_to_say": "Use when referring to a large quantity.",
+      "example": "Takusan no hito ga imasu. (There are many people.)"
+    },
+    {
+      "id": "12",
+      "word": "すごい",
+      "pronunciation": "Sugoi",
+      "meaning": "Amazing, great",
+      "part_of_speech": "Adjective",
+      "difficulty": "medium",
+      "lesson_no": 2,
+      "when_to_say": "Use when expressing admiration.",
+      "example": "Sugoi desu ne! (That's amazing!)"
+    },
+    {
+      "id": "13",
+      "word": "おいしい",
+      "pronunciation": "Oishii",
+      "meaning": "Delicious",
+      "part_of_speech": "Adjective",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use when describing something tasty.",
+      "example": "Kono ramen wa oishii desu. (This ramen is delicious.)"
+    },
+    {
+      "id": "14",
+      "word": "わかる",
+      "pronunciation": "Wakaru",
+      "meaning": "To understand",
+      "part_of_speech": "Verb",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use when understanding something.",
+      "example": "Wakarimasu. (I understand.)"
+    },
+    {
+      "id": "15",
+      "word": "たべる",
+      "pronunciation": "Taberu",
+      "meaning": "To eat",
+      "part_of_speech": "Verb",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use when talking about eating.",
+      "example": "Asagohan wo tabemashita. (I ate breakfast.)"
+    },
+    {
+      "id": "16",
+      "word": "ねる",
+      "pronunciation": "Neru",
+      "meaning": "To sleep",
+      "part_of_speech": "Verb",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use when referring to sleeping.",
+      "example": "Watashi wa 10 ji ni nemasu. (I sleep at 10 o'clock.)"
+    },
+    {
+      "id": "17",
+      "word": "みる",
+      "pronunciation": "Miru",
+      "meaning": "To see, to look at",
+      "part_of_speech": "Verb",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use when referring to looking at something.",
+      "example": "Kinoo eiga wo mimashita. (I watched a movie yesterday.)"
+    },
+    {
+      "id": "18",
+      "word": "つかう",
+      "pronunciation": "Tsukau",
+      "meaning": "To use",
+      "part_of_speech": "Verb",
+      "difficulty": "medium",
+      "lesson_no": 2,
+      "when_to_say": "Use when referring to using something.",
+      "example": "Kore wo tsukatte mo ii desu ka? (Can I use this?)"
+    },
+    {
+      "id": "19",
+      "word": "おおきい",
+      "pronunciation": "Ookii",
+      "meaning": "Big",
+      "part_of_speech": "Adjective",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use when describing size.",
+      "example": "Kore wa totemo ookii desu. (This is very big.)"
+    },
+    {
+      "id": "20",
+      "word": "ちいさい",
+      "pronunciation": "Chiisai",
+      "meaning": "Small",
+      "part_of_speech": "Adjective",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Use when describing size.",
+      "example": "Chiisai inu ga imasu. (There is a small dog.)"
+    }
+  ]
+  
