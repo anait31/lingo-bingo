@@ -12,6 +12,7 @@ import Tutorials from './components/Tutorials/Tutorials';
 import AboutUs from './components/AboutUs/AboutUs';
 import Home from './components/Home/Home';
 import MyProfile from './components/MyProfile/MyProfile';
+import Lesson from './components/Lesson/Lesson';
 
 const router = createBrowserRouter([
   {
@@ -24,7 +25,18 @@ const router = createBrowserRouter([
       },
       {
         path: '/start-learning',
-        element: <StartLearning></StartLearning>
+        element: <StartLearning></StartLearning>,
+        loader: () => fetch('lessons.json')
+      },
+      {
+        path: '/start-learning/:lesson',
+        element: <Lesson></Lesson>,
+        loader: async ({ params }) => {
+          const res = await fetch('/malay.json')
+          const data = await res.json()
+          const singleLesson = data.filter(lesson => lesson.Lesson_no == params.lesson);
+          return {singleLesson}
+        }
       },
       {
         path: '/tutorials',
